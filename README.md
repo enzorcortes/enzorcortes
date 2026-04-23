@@ -1,4 +1,4 @@
-### **<div align="center">Howdy 👋🏼, I'm Ricardo Cortés! 🤠</div>**  
+### **<div align="center">(☞ ͡° ͜ʖ ͡°)☞ Hello there 😏</div>**  
 
 
 ## 📩 Connect with me  
