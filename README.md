@@ -22,12 +22,12 @@
 - Favorite sports teams include the ⚾ New York Mets and 🏒 Dallas Stars  
   
 
-- If I'm not on GitHub, I'm surfing 🏄🏻‍♂️ ,  line dancing 🕺🏻, or learning to fly a 🛩️ plane
+- If I'm not on GitHub, I'm surfing 🏄🏻‍♂️ ,  line dancing 🕺🏻, or learning how to fly a 🛩️ plane
 
 
 - 🦖 Massive Godzilla fan!
 
-- 🕹️ I play on Steam (PC) and PS5
+- 🕹️ Steam (PC) and PS5
   
 
 <br/>  
