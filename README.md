@@ -1,4 +1,4 @@
-### **<div align="center">(☞ ͡° ͜ʖ ͡°)☞ Hello there 😏</div>**  
+### **<div align="center">Hello there (☞ ͡° ͜ʖ ͡°)☞ </div>**  
 
 
 ## 📩 Connect with me  
