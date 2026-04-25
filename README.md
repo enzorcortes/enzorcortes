@@ -11,6 +11,10 @@
 </a>  
 </div>  
 
+## 🧠 My Certifications
+☁️ [AWS Cloud Practitioner Certification](https://www.credly.com/badges/fb33e061-b547-43ff-bd94-bce7e5d2505e/public_url)
+
+
 ## 🧑🏻‍💻 A little about me...
 
 - ⭐ My favorite tech stack includes React.JS and C++  
@@ -77,7 +81,6 @@
 </td></tr></table>  
 
 <br/>  
-
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
