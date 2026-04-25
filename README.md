@@ -11,7 +11,7 @@
 </a>  
 </div>  
 
-## 🧠 My Certifications
+## 🧠 My Viewable Certifications
 ☁️ [AWS Cloud Practitioner Certification](https://www.credly.com/badges/fb33e061-b547-43ff-bd94-bce7e5d2505e/public_url)
 
 
