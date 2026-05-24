@@ -1,7 +1,7 @@
 ### **<div align="center">Hello there (☞ ͡° ͜ʖ ͡°)☞ </div>**  
 
 
-## 📩 Connect with me  
+# 📩 Connect with me  
 <div align="left">
 <a href="https://github.com/https://github.com/enzorcortes" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -11,15 +11,17 @@
 </a>  
 </div>  
 
-## 🧠 My Viewable Certifications
+# 🧠 My Viewable Certifications
 
 [![Credly Badges Overview](https://credly-readme-stats.onrender.com/api/overview?username=enzorcortes&theme=tokyonight&custom_title=Credly+Badges+Overview)](https://www.credly.com/users/enzorcortes/badges)
+
+## View Certs Individually
 
 ☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fb33e061-b547-43ff-bd94-bce7e5d2505e/public_url)
 
 🤖 [AWS Certified AI Practitioner](https://www.credly.com/badges/ced15fe8-186a-4eb7-81fd-3ff17825e69c/public_url)
 
-## 🧑🏻‍💻 A little about me...
+# 🧑🏻‍💻 A little about me...
 
 - ⭐ My favorite tech stack includes React.JS and C++  
   
@@ -41,7 +43,7 @@
 <br/>  
 
 
-## 🛠️ Tools & Languages 
+# 🛠️ Tools & Languages 
 <table><tr><td valign="top" width="33%">
 
 
