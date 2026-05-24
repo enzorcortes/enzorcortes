@@ -12,6 +12,9 @@
 </div>  
 
 ## 🧠 My Viewable Certifications
+
+[![Credly Badges Overview](https://credly-readme-stats.onrender.com/api/overview?username=enzorcortes&theme=tokyonight&custom_title=Credly+Badges+Overview)](https://www.credly.com/users/enzorcortes/badges)
+
 ☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fb33e061-b547-43ff-bd94-bce7e5d2505e/public_url)
 
 🤖 [AWS Certified AI Practitioner](https://www.credly.com/badges/ced15fe8-186a-4eb7-81fd-3ff17825e69c/public_url)
