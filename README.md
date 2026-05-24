@@ -12,8 +12,8 @@
 </div>  
 
 ## 🧠 My Viewable Certifications
-☁️ [AWS Cloud Practitioner Certification](https://www.credly.com/badges/fb33e061-b547-43ff-bd94-bce7e5d2505e/public_url)
-
+☁️ [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fb33e061-b547-43ff-bd94-bce7e5d2505e/public_url)
+🤖 [AWS Certified AI Practitioner](https://www.credly.com/badges/ced15fe8-186a-4eb7-81fd-3ff17825e69c/public_url)
 
 ## 🧑🏻‍💻 A little about me...
 
