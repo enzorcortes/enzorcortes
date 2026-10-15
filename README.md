@@ -23,7 +23,7 @@
 
 # 🧑🏻‍💻 A little about me...
 
-- ⭐ My favorite tech stack includes React.JS and C++  
+- ⭐ My favorite tech stack includes React.JS, Swift, SQL, and C++ 
   
 
 -  📈 Currently expanding on PowerBI Projects and AWS Certifications  
