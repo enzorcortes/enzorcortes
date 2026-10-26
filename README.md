@@ -26,10 +26,10 @@
 - ⭐ My favorite tech stack includes React.JS, Swift, SQL, and C++ 
   
 
--  📈 Currently expanding on PowerBI Projects and AWS Certifications  
+-  📈 Currently expanding on software concepts, data analytics projects, and AWS certifications  
   
 
-- Favorite sports teams include the ⚾ New York Mets and 🏒 Dallas Stars  
+- Favorite sports teams include the ⚾ New York Mets, 🏀 Knicks, 🏈 Buffalo Bills, and 🏒 Dallas Stars  
   
 
 - If I'm not on GitHub, I'm surfing 🏄🏻‍♂️ ,  line dancing 🕺🏻, or learning how to fly a 🛩️ plane
@@ -37,7 +37,7 @@
 
 - 🦖 Massive Godzilla fan!
 
-- 🕹️ Steam (PC) and PS5
+- 🕹️ Steam (PC) and 🎮 PS5
   
 
 <br/>  
